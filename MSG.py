@@ -92,7 +92,7 @@ class MSG(loader.Module):
         "msg_saved_img_url": "<tg-emoji emoji-id=5368344017715108822>✅️</tg-emoji> <b>Сохранено как:</b> <code>{title}</code>\n<i>Вместо медиа из реплая будет использована прямая ссылка.</i>",
         "msg_saved_no_media": "<tg-emoji emoji-id=5368344017715108822>✅️</tg-emoji> <b>Сохранено как:</b> <code>{title}</code>\n<i>Чтобы сохранить фото и кнопки вместе, добавь прямую ссылку на медиа в конце команды.</i>",
         "msg_deleted": "<tg-emoji emoji-id=5368359638511166342>🗑</tg-emoji> <b>Удалено:</b> <code>{title}</code>",
-        "all_deleted": "<tg-emoji emoji-id=5368359638511166342>🗑</tg-emoji> <b>Все сообщения удалены.</b> ({count})",
+        "all_deleted": "<tg-emoji emoji-id=5368359638511166342>🗑</tg-emoji> <b>Все сообщения удаленык.</b> ({count})",
         "list_empty": "<tg-emoji emoji-id=5370741373970453373>🗂</tg-emoji> <b>Список пуст.</b>",
         "overwrite_confirm": "<tg-emoji emoji-id=5371092672230494829>❓</tg-emoji> <b>Перезаписать?</b>\n<i>{date}, {size}</i>",
         "downloading": "<tg-emoji emoji-id=5368700637439629296>📥</tg-emoji> <b>Скачиваю...</b>",
