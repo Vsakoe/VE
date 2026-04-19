@@ -36,7 +36,7 @@ DOMAIN_RE = re.compile(r'^[\w.-]+\.[a-zA-Z]{2,}')
  
 @loader.tds
 class MSG(loader.Module):
-    """Module for creating preset messages"""
+    """Module for creating preset messagesыыы"""
  
     strings = {
         "name": "MSG",
