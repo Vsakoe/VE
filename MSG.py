@@ -1,4 +1,4 @@
-__version__ = (1, 3, 1)
+__version__ = (1, 3, 2)
 
 #            © Copyright 2026
 #           https://t.me/HikkTutor 
