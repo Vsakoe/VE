@@ -10,7 +10,6 @@ from .. import loader
 class TestTTTModule(loader.Module):
     """Тестовый модуль для проверки AutoPost"""
 
-    @loader.command()
-    ru_doc="тест"
+    @loader.command(ru_doc="тест")
     async def testcmd(self, message):
         await message.reply("OK")
