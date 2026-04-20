@@ -1,4 +1,4 @@
-__version__ = (1, 1, 5)
+__version__ = (1, 1, 6)
 #            © Copyright 2026
 #           https://t.me/HikkTutor 
 # 🔒      Licensed under the GNU AGPLv3
